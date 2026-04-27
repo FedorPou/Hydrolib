@@ -1,0 +1,189 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Admin\Desktop\Разработки\AltiumProjects\Altium LIBs\IntegratedLibrary\MineLib\Hydra\Database\mine_database_excel.MDB;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=C:\Users\Admin\Desktop\Разработки\AltiumProjects\Altium LIBs\IntegratedLibrary\MineLib\Hydra\Database\mine_database_excel.MDB
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=C:\Users\Admin\Desktop\Разработки\AltiumProjects\Altium LIBs\IntegratedLibrary\MineLib\Hydra\Libraries\
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Integrated_Library
+[Table1]
+SchemaName=
+TableName=Integrated_Library
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=253|Library Ref0=253|Library Path0=218|Footprint Path0=222|Footprint Ref0=216|Footprint Path 20=222|Footprint Ref 20=178|Footprint Path 30=222|Footprint Ref 30=174|Footprint Path 40=222|Footprint Ref 40=153|Footprint Path 50=222|Footprint Ref 50=153|Footprint Path 60=222|Footprint Ref 60=153|Footprint Path 70=222|Footprint Ref 70=153|Footprint Path 80=222|Footprint Ref 80=153|Footprint Path 90=222|Footprint Ref 90=153|Footprint Path 100=222|Footprint Ref 100=162|Footprint Path 110=222|Footprint Ref 110=162|Footprint Path 120=222|Footprint Ref 120=162|Footprint Path 130=222|Footprint Ref 130=162|Footprint Path 140=222|Footprint Ref 140=162|Footprint Path 150=222|Footprint Ref 150=162|Footprint Path 160=222|Footprint Ref 160=162|Footprint Path 170=222|Footprint Ref 170=162|Footprint Path 180=222|Footprint Ref 180=162|Footprint Path 190=222|Footprint Ref 190=162|Footprint Path 200=222|Footprint Ref 200=162|Footprint Path 210=222|Footprint Ref 210=162|Footprint Path 220=222|Footprint Ref 220=162|Footprint Path 230=222|Footprint Ref 230=162|Footprint Path 240=222|Footprint Ref 240=162|Footprint Path 250=222|Footprint Ref 250=162|Footprint Path 260=222|Footprint Ref 260=162|Footprint Path 270=222|Footprint Ref 270=162|Footprint Path 280=222|Footprint Ref 280=162|Footprint Path 290=222|Footprint Ref 290=162|Footprint Path 300=222|Footprint Ref 300=162|Footprint Path 310=222|Footprint Ref 310=162|Footprint Path 320=222|Footprint Ref 320=162|Footprint Path 330=222|Footprint Ref 330=162|Footprint Path 340=222|Footprint Ref 340=162|Footprint Path 350=222|Footprint Ref 350=162|Footprint Path 360=222|Footprint Ref 360=162|Footprint Path 370=222|Footprint Ref 370=162|Footprint Path 380=222|Footprint Ref 380=162|Comment0=753|Component Kind0=170|Component Type0=172|Designator0=253|Footprint0=216|Library Reference0=253|Pin Count0=116
+[FieldMap1]
+Options=FieldName=Integrated_Library.Part Number|TableNameOnly=Integrated_Library|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Integrated_Library.Library Ref|TableNameOnly=Integrated_Library|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Integrated_Library.Library Path|TableNameOnly=Integrated_Library|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Integrated_Library.Footprint Path|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Integrated_Library.Footprint Ref|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Integrated_Library.Footprint Path 2|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Integrated_Library.Footprint Ref 2|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Integrated_Library.Footprint Path 3|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Integrated_Library.Footprint Ref 3|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Integrated_Library.Footprint Path 4|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Integrated_Library.Footprint Ref 4|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Integrated_Library.Footprint Path 5|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Integrated_Library.Footprint Ref 5|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Integrated_Library.Footprint Path 6|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Integrated_Library.Footprint Ref 6|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Integrated_Library.Footprint Path 7|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 7|FieldType=1|ParameterName=[Footprint Path 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Integrated_Library.Footprint Ref 7|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 7|FieldType=1|ParameterName=[Footprint Ref 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Integrated_Library.Footprint Path 8|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 8|FieldType=1|ParameterName=[Footprint Path 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Integrated_Library.Footprint Ref 8|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 8|FieldType=1|ParameterName=[Footprint Ref 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Integrated_Library.Footprint Path 9|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 9|FieldType=1|ParameterName=[Footprint Path 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Integrated_Library.Footprint Ref 9|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 9|FieldType=1|ParameterName=[Footprint Ref 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Integrated_Library.Footprint Path 10|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 10|FieldType=1|ParameterName=[Footprint Path 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Integrated_Library.Footprint Ref 10|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 10|FieldType=1|ParameterName=[Footprint Ref 10]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Integrated_Library.Footprint Path 11|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 11|FieldType=1|ParameterName=[Footprint Path 11]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Integrated_Library.Footprint Ref 11|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 11|FieldType=1|ParameterName=[Footprint Ref 11]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Integrated_Library.Footprint Path 12|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 12|FieldType=1|ParameterName=[Footprint Path 12]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Integrated_Library.Footprint Ref 12|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 12|FieldType=1|ParameterName=[Footprint Ref 12]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Integrated_Library.Footprint Path 13|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 13|FieldType=1|ParameterName=[Footprint Path 13]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Integrated_Library.Footprint Ref 13|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 13|FieldType=1|ParameterName=[Footprint Ref 13]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Integrated_Library.Footprint Path 14|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 14|FieldType=1|ParameterName=[Footprint Path 14]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Integrated_Library.Footprint Ref 14|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 14|FieldType=1|ParameterName=[Footprint Ref 14]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Integrated_Library.Footprint Path 15|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 15|FieldType=1|ParameterName=[Footprint Path 15]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Integrated_Library.Footprint Ref 15|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 15|FieldType=1|ParameterName=[Footprint Ref 15]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Integrated_Library.Footprint Path 16|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 16|FieldType=1|ParameterName=[Footprint Path 16]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Integrated_Library.Footprint Ref 16|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 16|FieldType=1|ParameterName=[Footprint Ref 16]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Integrated_Library.Footprint Path 17|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 17|FieldType=1|ParameterName=[Footprint Path 17]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Integrated_Library.Footprint Ref 17|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 17|FieldType=1|ParameterName=[Footprint Ref 17]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Integrated_Library.Footprint Path 18|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 18|FieldType=1|ParameterName=[Footprint Path 18]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Integrated_Library.Footprint Ref 18|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 18|FieldType=1|ParameterName=[Footprint Ref 18]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Integrated_Library.Footprint Path 19|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 19|FieldType=1|ParameterName=[Footprint Path 19]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Integrated_Library.Footprint Ref 19|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 19|FieldType=1|ParameterName=[Footprint Ref 19]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Integrated_Library.Footprint Path 20|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 20|FieldType=1|ParameterName=[Footprint Path 20]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Integrated_Library.Footprint Ref 20|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 20|FieldType=1|ParameterName=[Footprint Ref 20]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Integrated_Library.Footprint Path 21|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 21|FieldType=1|ParameterName=[Footprint Path 21]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Integrated_Library.Footprint Ref 21|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 21|FieldType=1|ParameterName=[Footprint Ref 21]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Integrated_Library.Footprint Path 22|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 22|FieldType=1|ParameterName=[Footprint Path 22]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Integrated_Library.Footprint Ref 22|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 22|FieldType=1|ParameterName=[Footprint Ref 22]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Integrated_Library.Footprint Path 23|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 23|FieldType=1|ParameterName=[Footprint Path 23]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Integrated_Library.Footprint Ref 23|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 23|FieldType=1|ParameterName=[Footprint Ref 23]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Integrated_Library.Footprint Path 24|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 24|FieldType=1|ParameterName=[Footprint Path 24]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Integrated_Library.Footprint Ref 24|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 24|FieldType=1|ParameterName=[Footprint Ref 24]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Integrated_Library.Footprint Path 25|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 25|FieldType=1|ParameterName=[Footprint Path 25]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Integrated_Library.Footprint Ref 25|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 25|FieldType=1|ParameterName=[Footprint Ref 25]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Integrated_Library.Footprint Path 26|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 26|FieldType=1|ParameterName=[Footprint Path 26]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Integrated_Library.Footprint Ref 26|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 26|FieldType=1|ParameterName=[Footprint Ref 26]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Integrated_Library.Footprint Path 27|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 27|FieldType=1|ParameterName=[Footprint Path 27]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Integrated_Library.Footprint Ref 27|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 27|FieldType=1|ParameterName=[Footprint Ref 27]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Integrated_Library.Footprint Path 28|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 28|FieldType=1|ParameterName=[Footprint Path 28]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Integrated_Library.Footprint Ref 28|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 28|FieldType=1|ParameterName=[Footprint Ref 28]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Integrated_Library.Footprint Path 29|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 29|FieldType=1|ParameterName=[Footprint Path 29]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Integrated_Library.Footprint Ref 29|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 29|FieldType=1|ParameterName=[Footprint Ref 29]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Integrated_Library.Footprint Path 30|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 30|FieldType=1|ParameterName=[Footprint Path 30]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Integrated_Library.Footprint Ref 30|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 30|FieldType=1|ParameterName=[Footprint Ref 30]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Integrated_Library.Footprint Path 31|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 31|FieldType=1|ParameterName=[Footprint Path 31]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Integrated_Library.Footprint Ref 31|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 31|FieldType=1|ParameterName=[Footprint Ref 31]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=Integrated_Library.Footprint Path 32|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 32|FieldType=1|ParameterName=[Footprint Path 32]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Integrated_Library.Footprint Ref 32|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 32|FieldType=1|ParameterName=[Footprint Ref 32]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=Integrated_Library.Footprint Path 33|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 33|FieldType=1|ParameterName=[Footprint Path 33]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Integrated_Library.Footprint Ref 33|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 33|FieldType=1|ParameterName=[Footprint Ref 33]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Integrated_Library.Footprint Path 34|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 34|FieldType=1|ParameterName=[Footprint Path 34]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Integrated_Library.Footprint Ref 34|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 34|FieldType=1|ParameterName=[Footprint Ref 34]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Integrated_Library.Footprint Path 35|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 35|FieldType=1|ParameterName=[Footprint Path 35]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=Integrated_Library.Footprint Ref 35|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 35|FieldType=1|ParameterName=[Footprint Ref 35]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=Integrated_Library.Footprint Path 36|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 36|FieldType=1|ParameterName=[Footprint Path 36]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=Integrated_Library.Footprint Ref 36|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 36|FieldType=1|ParameterName=[Footprint Ref 36]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=Integrated_Library.Footprint Path 37|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 37|FieldType=1|ParameterName=[Footprint Path 37]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=Integrated_Library.Footprint Ref 37|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 37|FieldType=1|ParameterName=[Footprint Ref 37]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Integrated_Library.Footprint Path 38|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Path 38|FieldType=1|ParameterName=[Footprint Path 38]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Integrated_Library.Footprint Ref 38|TableNameOnly=Integrated_Library|FieldNameOnly=Footprint Ref 38|FieldType=1|ParameterName=[Footprint Ref 38]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

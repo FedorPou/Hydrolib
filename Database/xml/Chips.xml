@@ -409,8 +409,8 @@
 		<PartNumber>RTL8367RB-VB</PartNumber>
 		<Description>Управляемый коммутатор второго уровня на 5+2 порта 10/100/1000M</Description>
 		<Comment>RTL8367RB-VB</Comment>
-		<LibraryPath>Schematic\RTL8367RB-VB.SchLib</LibraryPath>
-		<LibraryRef>RTL8367RB-VB</LibraryRef>
+		<LibraryPath>Schematic\RTL8367RB-VB_gost.SchLib</LibraryPath>
+		<LibraryRef>RTL8367RB-VB_gost</LibraryRef>
 		<FootprintPath1>Footprints\LQFP128_14x14_exposed_pad.PcbLib</FootprintPath1>
 		<FootprintRef1>LQFP128_14x14_exposed_pad</FootprintRef1>
 	</Part>
