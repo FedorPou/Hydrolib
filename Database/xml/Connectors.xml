@@ -602,4 +602,13 @@
 		<FootprintPath1>Footprints\Connectors\KLS1-229-5FA.PcbLib</FootprintPath1>
 		<FootprintRef1>KLS1-229-5FA</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>10018783-11111TLF</PartNumber>
+		<Description>PCI Express GEN 3 x4 слот, вертикальный, Through Hole, 64 Positions, шаг 1.00мм</Description>
+		<Comment>10018783-11111TLF</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_64pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_64pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\AMPHENOL_10018783-11111TLF.PcbLib</FootprintPath1>
+		<FootprintRef1>AMPHENOL_10018783-11111TLF</FootprintRef1>
+	</Part>
 </Connectors>
