@@ -593,4 +593,11 @@
 		<FootprintPath1>Footprints\Connectors\BM04B-SRSS-TB.PcbLib</FootprintPath1>
 		<FootprintRef1>BM04B-SRSS-TB</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>Conn_9pin</PartNumber>
+		<Comment>Conn_9pin</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_9pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_9pin</LibraryRef>
+		<FootprintRef1>pcb_conn</FootprintRef1>
+	</Part>
 </Connectors>
