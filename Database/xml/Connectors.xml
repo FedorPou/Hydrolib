@@ -594,10 +594,21 @@
 		<FootprintRef1>BM04B-SRSS-TB</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Conn_9pin</PartNumber>
-		<Comment>Conn_9pin</Comment>
-		<LibraryPath>Schematic\Connectors\Conn_9pin.SchLib</LibraryPath>
-		<LibraryRef>Conn_9pin</LibraryRef>
-		<FootprintRef1>pcb_conn</FootprintRef1>
+		<PartNumber>Mini-USB-B5F</PartNumber>
+		<Description>Разъем mini USB, розетка угловая на плату</Description>
+		<Comment>Mini-USB-B5F</Comment>
+		<LibraryPath>Schematic\Connectors\Mini-USB-B5F.SchLib</LibraryPath>
+		<LibraryRef>Mini-USB-B5F</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KLS1-229-5FA.PcbLib</FootprintPath1>
+		<FootprintRef1>KLS1-229-5FA</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>10018783-11111TLF</PartNumber>
+		<Description>PCI Express GEN 3 x4 слот, вертикальный, Through Hole, 64 Positions, шаг 1.00мм</Description>
+		<Comment>10018783-11111TLF</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_64pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_64pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\AMPHENOL_10018783-11111TLF.PcbLib</FootprintPath1>
+		<FootprintRef1>AMPHENOL_10018783-11111TLF</FootprintRef1>
 	</Part>
 </Connectors>
