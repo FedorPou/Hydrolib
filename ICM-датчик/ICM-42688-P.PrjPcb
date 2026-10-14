@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\Новая папка\PCIexpress_x4_full\PCIexpress_x4_full\Imported PCIexpress_x4_full\PCIexpress_x4_full.PcbDoc
+DocumentPath=PCIexpress_x4_full.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,6 +99,122 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ICM-42688-P\Design Rule Check - PCIexpress_x4_full.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\b.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\b.mask\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\b.paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\b.silks\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric2\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric3\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_non-plated_b.cu-f.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_b.cu-f.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\f.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\f.mask\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\f.paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\f.silks\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\in1.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\in2.cu\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\PCIexpress_x4_full.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\Pick Place for PCIexpress_x4_full.csv
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_non-plated_b.cu-f.cu\tools
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_b.cu-f.cu\tools
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {274CF588-CD3A-4EC8-BA60-D37B49E9925C}\Extensions\EMIStream\Data\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -423,6 +539,8 @@ OutputName10=ODB++ Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|DocumentPath=
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
