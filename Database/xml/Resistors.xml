@@ -4312,8 +4312,182 @@
 		<FootprintPath1>Footprints/Resistors/1206R.PcbLib</FootprintPath1>
 		<FootprintRef1>1206R</FootprintRef1>
 	</Part>
-	<Part/>
-	<Part/>
+	<Part>
+		<PartNumber>RC0603FR-078M2L</PartNumber>
+		<Description>Резистор номиналом 8,2 М Ом 0,01 0603</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>8,2 М</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0603FR-079M1L</PartNumber>
+		<Description>Резистор номиналом 9,1 М Ом 0,01 0603</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>9,1 М</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0603FR-0710ML</PartNumber>
+		<Description>Резистор номиналом 10 М Ом 0,01 0603</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10 М</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC2512FR-075ML</PartNumber>
+		<Description>Резистор номиналом 5 М Ом 0,01 2512</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5 М</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC1210FR-0710ML</PartNumber>
+		<Description>Резистор номиналом 10 М Ом 0,01 1210</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10 М</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/1210R.PcbLib</FootprintPath1>
+		<FootprintRef1>1210R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC2512FR-070R22L</PartNumber>
+		<Description>Резистор номиналом 0,22 Ом 0,01 2512</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>0.22</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0603FR-072K49L</PartNumber>
+		<Description>Резистор номиналом 2,49 к Ом 0,01 0603</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,49 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0402FR-071KL</PartNumber>
+		<Description>Резистор номиналом 1 к Ом 0,01 0402</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
+		<FootprintRef1>0402R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0402FR-074K7L</PartNumber>
+		<Description>Резистор номиналом 4,7 к Ом 0,01 0402</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,7 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
+		<FootprintRef1>0402R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0402FR-07470RL</PartNumber>
+		<Description>Резистор номиналом 470 Ом 0,01 0402</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>470</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
+		<FootprintRef1>0402R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC2512FR-0768RL</PartNumber>
+		<Description>Резистор номиналом 68 Ом 0,01 2512</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>68</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC2512FR-0733RL</PartNumber>
+		<Description>Резистор номиналом 33 Ом 0,01 2512</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>33</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0805FR-0747RL</PartNumber>
+		<Description>Резистор номиналом 47 Ом 0,01 0805</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>47</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0805R.PcbLib</FootprintPath1>
+		<FootprintRef1>0805R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0805FR-071KL</PartNumber>
+		<Description>Резистор номиналом 1 к Ом 0,01 0805</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0805R.PcbLib</FootprintPath1>
+		<FootprintRef1>0805R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC0603FR-070RL</PartNumber>
+		<Description>Резистор номиналом 0 Ом 0,05 0603</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>0</Value>
+		<Tolerance>0.05</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RC1206FR-07120RL</PartNumber>
+		<Description>Резистор номиналом 120 Ом 0,01 1206</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>120</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/1206R.PcbLib</FootprintPath1>
+		<FootprintRef1>1206R</FootprintRef1>
+	</Part>
 	<Part>
 		<PartNumber>TC33X-2-102E</PartNumber>
 		<Description>Потенциометр керметный 1кОм 0.1Вт для поверхностного монтажа</Description>
@@ -4348,16 +4522,24 @@
 		<FootprintRef1>3mm_trim</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>01543.15DR</PartNumber>
+		<PartNumber>01543_15DR</PartNumber>
 		<Description>SMD Держатель</Description>
 		<Comment>Fuse</Comment>
 		<LibraryPath>Schematic\fuse.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
 		<Tolerance>1%</Tolerance>
 		<FootprintPath1>Footprints/Resistors/</FootprintPath1>
+		<FootprintRef1>01543_15DR</FootprintRef1>
 	</Part>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
+	<Part>
+		<PartNumber>res_0603_N/A</PartNumber>
+		<Description>посадочное место 0603 под перемычку</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>N/A</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
 </Resistors>

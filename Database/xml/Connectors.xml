@@ -613,6 +613,7 @@
 	</Part>
 	<Part>
 		<PartNumber>PCI-E(4X)</PartNumber>
+		<Description>PCI Express GEN 3 x4 (разведёнка на плату)</Description>
 		<Comment>PCI-E(4X)</Comment>
 		<LibraryPath>Schematic\Connectors\Conn_64pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_64pin</LibraryRef>
@@ -628,18 +629,4 @@
 		<FootprintPath1>Footprints\Connectors\PLS_PLD_PBS_PBD_and_others\PLS_ALL.PcbLib</FootprintPath1>
 		<FootprintRef1>PLS4-90</FootprintRef1>
 	</Part>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
-	<Part/>
 </Connectors>

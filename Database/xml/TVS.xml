@@ -23,18 +23,6 @@
 		<Inteface>RS-485</Inteface>
 	</Part>
 	<Part>
-		<PartNumber>SMBJ26CA</PartNumber>
-		<Description>Двунаправленный защитный диод на 26 В, рассеиваемая мощность 600 Вт</Description>
-		<Comment>SMBJ26CA</Comment>
-		<LibraryPath>Schematic\TVS\TVS_1_2dir.SchLib</LibraryPath>
-		<LibraryRef>TVS_1_2dir</LibraryRef>
-		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
-		<FootprintRef1>SMB</FootprintRef1>
-		<VoltageNominal>26</VoltageNominal>
-		<Power>600</Power>
-		<Value>26 В</Value>
-	</Part>
-	<Part>
 		<PartNumber>SMAJ12CA</PartNumber>
 		<Description>Двунаправленный защитный диод на 12 В, рассеиваемая мощность 400 Вт</Description>
 		<Comment>SMAJ12CA</Comment>
@@ -179,12 +167,26 @@
 	</Part>
 	<Part>
 		<PartNumber>SP721</PartNumber>
-		<Description>SP721ABG, ESD Protection Diodes / TVS Diodes 6 CH DIODE ARRAY, SP721ABG, 8004597169</Description>
+		<Description>Диоды для защиты от ЭСР / диоды для подавления переходных скачков напряжения 6 CH DIODE ARRAY</Description>
 		<Comment>SP721</Comment>
 		<LibraryPath>Schematic\TVS\SP721.SchLib</LibraryPath>
 		<LibraryRef>SP721</LibraryRef>
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
-		<Value> В</Value>
+		<VoltageNominal>35</VoltageNominal>
+		<Power>-</Power>
+		<Value>35 В</Value>
+	</Part>
+	<Part>
+		<PartNumber>SMBJ26CA</PartNumber>
+		<Description>Двунаправленный защитный диод на 26 В, рассеиваемая мощность 600 Вт</Description>
+		<Comment>SMBJ26CA</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_2dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_2dir</LibraryRef>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
+		<VoltageNominal>26</VoltageNominal>
+		<Power>600</Power>
+		<Value>26 В</Value>
 	</Part>
 </TVS>
